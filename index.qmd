@@ -1,0 +1,75 @@
+---
+title: "Vishwanath Shukla"
+pagetitle: "Vishwanath Shukla | Physics, IIT Kharagpur"
+title-block-banner: false
+---
+
+::: {.affiliation}
+**Assistant Professor**  
+Department of Physics  
+Indian Institute of Technology Kharagpur
+:::
+
+::: {.introduction}
+My research is in statistical physics and theoretical condensed matter physics. I study non-equilibrium phenomena in quantum many-body systems, classical and quantum fluids, and active matter, using theory and numerical simulations.
+:::
+
+## Research {#research}
+
+### Quantum many-body dynamics
+
+Non-equilibrium dynamics, thermalization and prethermal phases in driven quantum systems, including Rydberg atom chains.
+
+### Classical and quantum fluids
+
+Turbulence, irreversibility and non-equilibrium statistical properties of classical fluids, Bose–Einstein condensates and superfluids. My work includes the Navier–Stokes and Gross–Pitaevskii equations, rotating flows and particle dynamics.
+
+### Active matter
+
+Collective dynamics of self-propelled particles in dry systems and fluid environments.
+
+### Physics and computing
+
+Numerical simulations and high-performance computing to study complex physical systems.
+
+## Selected publications {#publications}
+
+1. **Prethermalization in the PXP Model under Continuous Quasiperiodic Driving**  
+   P. Dutta, S. Choudhury and V. Shukla. *Physical Review B* **111**, 064303 (2025).  
+   [Journal article](https://doi.org/10.1103/PhysRevB.111.064303) · [arXiv](https://arxiv.org/abs/2406.01440)
+
+2. **Nonequilibrium Continuous Transition in a Fast Rotating Turbulence**  
+   C. S. Lohani, S. K. Nayak, K. Seshasayanan and V. Shukla. *EPL* **149**, 53002 (2025).  
+   [Journal article](https://doi.org/10.1209/0295-5075/adb909) · [arXiv](https://arxiv.org/abs/2501.07079)
+
+3. **Poles, Shocks and Tygers: The Time-reversible Burgers Equation**  
+   A. Das, P. Dutta and V. Shukla. *Physical Review E* **109**, 065108 (2024).  
+   [Journal article](https://doi.org/10.1103/PhysRevE.109.065108) · [arXiv](https://arxiv.org/abs/2310.12624)
+
+4. **Non-equilibrium Bose-Einstein Condensation**  
+   V. Shukla and S. Nazarenko. *Physical Review A* **105**, 033305 (2022).  
+   [Journal article](https://doi.org/10.1103/PhysRevA.105.033305) · [arXiv](https://arxiv.org/abs/2105.07274)
+
+## Teaching {#teaching}
+
+Courses taught at IIT Kharagpur include:
+
+- Condensed Matter Physics II (PH41017)
+- Statistical Physics II (PH51023)
+- Computational Methods (PH41012)
+- Mathematical Methods II (PH41008)
+- Physics of Waves (PH11003)
+
+## Education {#education}
+
+- **Ph.D.**, Indian Institute of Science, Bangalore, 2014
+- **M.Sc.**, Indian Institute of Technology Delhi, 2009
+- **B.Sc.**, Banaras Hindu University, Varanasi, 2007
+
+## Contact {#contact}
+
+Dr. Vishwanath Shukla  
+Department of Physics  
+Indian Institute of Technology Kharagpur  
+Kharagpur 721302, India
+

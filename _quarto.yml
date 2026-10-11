@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+    - index.qmd
+
+website:
+  title: "Vishwanath Shukla"
+  description: "Vishwanath Shukla, Assistant Professor, Department of Physics, IIT Kharagpur. Statistical physics, quantum dynamics, turbulence and active matter."
+  search: false
+  navbar:
+    background: light
+    right:
+      - text: Research
+        href: index.qmd#research
+      - text: Publications
+        href: index.qmd#publications
+      - text: Teaching
+        href: index.qmd#teaching
+      - text: Contact
+        href: index.qmd#contact
+  page-footer:
+    left: "Vishwanath Shukla · Department of Physics · IIT Kharagpur"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    lang: en
+    anchor-sections: true
+
